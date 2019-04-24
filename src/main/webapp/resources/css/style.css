@@ -1,0 +1,20 @@
+.block-filter {
+    display: inline-flex;
+}
+
+.filter-date {
+    padding-left: 20px;
+}
+
+.filter-category {
+    padding-left: 50px;
+}
+
+.filter-all-category, .filter-all-orders {
+    padding-left: 60px;
+}
+
+.filter-user {
+    padding-left: 17px;
+}
+
